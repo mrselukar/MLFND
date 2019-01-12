@@ -5,7 +5,7 @@ Machine Learning Foundation Nanodegree Project 3
 ## Introduction
 > <ul>
 > <li>This Project sheds a light on the Non-Renewable Energy Sources Usages by the country and also the Co2 Emissions
-> <li>It trys to explore the recent history of Non-renewable energy sources namely oil and coal.</li>    
+> <li>It tries to explore the recent history of Non-renewable energy sources namely oil and coal.</li>    
 > <li>While exploring the usage of energy it also explores the  pollution caused in the form of CO2 Emissions </li> 
 > <li>The Data is collected from www.gapminder.org/data  </li>
 > <li><b>This project was done as a part of Udacitys MLFND Course by Mayur Selukar (@mrselukar) </b> </li> 
